@@ -1,6 +1,6 @@
 ## Name : Tushar Wagh
 ## date : 17-APR-2024
-## Ami : practise
+## Aim : practise ..... Azure ML studio
 
 import os
 import argparse
